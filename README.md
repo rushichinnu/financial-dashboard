@@ -71,7 +71,7 @@ financial-dashboard/
 ### Installation
 
 1. **Clone the repository**
-   git clone https://github.com/YOUR_USERNAME/financial-dashboard.git
+   git clone https://github.com/rushichinnu/financial-dashboard.git
    cd financial-dashboard
 
 2. **Install dependencies**
