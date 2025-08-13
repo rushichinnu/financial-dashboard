@@ -2,7 +2,7 @@
 
 A modern, responsive financial portfolio management dashboard built with Next.js 15, featuring real-time data visualization, dark mode support, and comprehensive client management tools.
 
-![Financial Dashboard](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Financial+Dashboard+Screenshot)
+![Financial Dashboard](./dashboard.png)
 
 ## 🚀 Features
 
